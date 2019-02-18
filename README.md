@@ -8,4 +8,4 @@ sudo apt-get install libsfml-dev
 '''
 
 ## this is what it look like :
-![alt text](https://raw.githubusercontent.com/Tweek-Tweak/my_hunter/master/exemple_duck_hunt.png
+![alt text](https://raw.githubusercontent.com/Tweek-Tweak/my_hunter/master/exemple_duck_hunt.png)
